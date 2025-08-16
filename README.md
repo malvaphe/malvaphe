@@ -1,4 +1,4 @@
-<h1>Hi! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png?1643514598" width="30"/></h1>
+<h1>Hi! Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png" width="30"/></h1>
 
 <p>Welcome to my GitHub.  
 I'm Nicolò, a full-stack developer with a strong foundation in computer science and a passion for building scalable, user-centric solutions.</p>
